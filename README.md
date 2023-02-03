@@ -7,5 +7,5 @@ Rip off Sex client with more badges being added and more options
 [![Total downloads](https://img.shields.io/github/downloads/rudyoriginal/sex/total?color=limegreen&label=Downloads)](https://github.com/rudyoriginal/sex/releases)
 
 [Latest release / changelog](https://github.com/rudyoriginal/sex/releases/latest)
-- [Windows installer](https://github.com/rudyoriginal/sex/releases/latest/download/SexClient-setup-win.exe)
+- [Windows installer]("C:\Users\Harri\Downloads\Your Application-SetupFiles\Nuclear Client.msi")
 - [Windows portable](https://github.com/rudyoriginal/sex/releases/latest/download/SexClient-portable-win.exe)
