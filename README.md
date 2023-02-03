@@ -1,7 +1,7 @@
-# Sex Client
-[![Discord](https://img.shields.io/discord/1054358106215297074?label=Discord&color=blue)](https://discord.gg/XasUaAch8h)
+# Nuclear Client
+[![Discord](https://img.shields.io/discord/1054358106215297074?label=Discord&color=blue)](https://discord.gg/4mS5YX3r9S)
 
-Another idkr rip off with more features and in most cases better performance.
+Rip off Sex client with more badges being added and more options
 
 ### Download 
 [![Total downloads](https://img.shields.io/github/downloads/rudyoriginal/sex/total?color=limegreen&label=Downloads)](https://github.com/rudyoriginal/sex/releases)
